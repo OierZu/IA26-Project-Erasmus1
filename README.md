@@ -1,4 +1,4 @@
-# IA26-Project-Erasmus1
+# IA26_P01_E01
 <a href="https://github.com/OierZu/IA26-Project-Erasmus1/blob/main/README.md">Link to the IA erasmus students project: Oier, Bruce and Matei</a>
 
 
