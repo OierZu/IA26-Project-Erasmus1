@@ -12,11 +12,11 @@
 
 | Name | Student number | GitHub user |
 |------|----------------|-------------|
-| [Oier Zuñiga] | [51240] | [OierZu] |
-| [Matei Panturu] | [51235] | [iv-panzer] |
-| [Aime-Bruce Ishimwe] | [51224] | [bruceaime] |
+| Oier Zuñiga | 51240 | OierZu |
+| Matei Panturu | 51235 | iv-panzer |
+| Aime-Bruce Ishimwe | 51224 | bruceaime |
 
-Lecturer: [Joaquim Silva] (added as collaborator of the repository).
+Lecturer: Joaquim Silva (added as collaborator of the repository).
 
 ---
 
@@ -153,12 +153,8 @@ The main notebook, `01_Project01_G##.ipynb`, is organized with each step in a di
 - [ ] Data integrity and time-window validation
 - [ ] Domain model (`Problem`, `Request`, `Vehicle`, `State`)
 - [ ] Cost function and route feasibility checker
-- [ ] Informed search (Greedy, A\*) — *pending*
-- [ ] Local search (Hill-Climbing) — *pending*
-- [ ] CSP formulation — *pending*
-
-**Findings so far:** [TO FILL: 2-4 lines with the most relevant EDA findings.]
-
-**Next steps:** [...]
-
+- [ ] Informed search (Greedy, A\*) 
+- [ ] Local search (Hill-Climbing)
+- [ ] CSP formulation
+      
 ---
