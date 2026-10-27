@@ -4,6 +4,7 @@
 > Degree on Computer Systems Engineering · IPCA (Escola Superior de Tecnologia)
 
 **Repository:** `IA26_P01_E01` (private GitHub repository)
+**Repository Link:** <a href="https://github.com/OierZu/IA26_P01_E01.git">GitHub project</a>
 **Status:** preliminary delivery (first progress report)
 
 ---
